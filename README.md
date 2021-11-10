@@ -17,7 +17,7 @@ The `onChat` test must:
 * Send a message from the client to the server that is running a Java implementation of the script DOCTOR.
 * Check the client receives a DOCTOR question about your mental health (see examples in `Eliza.kt`).
 
-You must remove `@Ignore` and place up to 6 lines of code to fulfil the task.
+You must remove `@Disabled` and place up to 6 lines of code to fulfil the task.
 `ElizaServerTest.kt` includes the test `onOpen` that will provide you insights.
 
 ## Secondary goals (:gift:)
